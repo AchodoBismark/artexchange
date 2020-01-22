@@ -9,8 +9,8 @@
 <g>
 	
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="17" x2="200" y2="17" gradientTransform="matrix(1 0 0 -1 0 32)">
-		<stop  offset="0" style="stop-color:#F54338"/>
-		<stop  offset="1" style="stop-color:#F3B80F"/>
+		<stop  offset="0" style="stop-color:#A8AC2E"/>
+		<stop  offset="1" style="stop-color:#A8AC2E"/>
 	</linearGradient>
 	<path class="st0" d="M200,15c0,8.3-7,15-15.5,15H15.5C7,30,0,23.3,0,15l0,0C0,6.7,7,0,15.5,0h168.9C193,0,200,6.7,200,15L200,15z"
 		/>
