@@ -6,8 +6,8 @@
 <g>
 	
 		<linearGradient id="Path_29-2_1_" gradientUnits="userSpaceOnUse" x1="-1134.228" y1="476.0234" x2="-1134.1606" y2="480.8655" gradientTransform="matrix(37.6032 0 0 -31.4029 42771.2305 15126.7158)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_29-2" fill="url(#Path_29-2_1_)" d="M173.473,117.638c-1.034,0.006-2.058,0.2-3.022,0.576L150.783,94.74
 		c0.798-1.331,1.218-2.843,1.224-4.386v-0.088c-0.006-1.906-0.646-3.764-1.818-5.263l21.365-33.105
@@ -26,9 +26,9 @@
 		l17.482,20.878L125.968,104.194z"/>
 	
 		<linearGradient id="Path_30-2_1_" gradientUnits="userSpaceOnUse" x1="-1134.9521" y1="476.1787" x2="-1134.9779" y2="481.321" gradientTransform="matrix(37.5705 0 0 -31.4022 42719.0781 15139.6777)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="0.198" style="stop-color:#F15D3C"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="0.198" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_30-2" fill="url(#Path_30-2_1_)" d="M129.719,120.642c-2.521,0-4.924,1.11-6.567,3.03l-36.063-14.56
 		c0-0.1,0.025-0.201,0.025-0.319c0.037-4.806-3.833-8.734-8.639-8.771c-2.521-0.019-4.924,1.054-6.593,2.948L35.224,88.172

@@ -23,8 +23,8 @@
 	<g id="Group_16_1_" transform="translate(12.042 13.313)">
 		
 			<linearGradient id="Path_41_2_" gradientUnits="userSpaceOnUse" x1="-541.5029" y1="475.8267" x2="-541.4708" y2="481.7565" gradientTransform="matrix(43.0555 0 0 -34.0677 23432.8379 16423.5195)">
-			<stop  offset="0" style="stop-color:#F2453F"/>
-			<stop  offset="1" style="stop-color:#F2B730"/>
+			<stop  offset="0" style="stop-color:#a8ac2e"/>
+			<stop  offset="1" style="stop-color:#a8ac2e"/>
 		</linearGradient>
 		<path id="Path_41_1_" fill="url(#Path_41_2_)" d="M175.601,75.103c-3.531,0.013-6.894,1.549-9.214,4.215l-15.877-6.36V49.139
 			c-2.466,1.098-5.139,1.668-7.842,1.674l0,0c-0.125,0-0.251,0-0.376-0.025v18.869l-19.772-7.929l-11.191,11.203
@@ -39,8 +39,8 @@
 	</g>
 	
 		<linearGradient id="Path_42_2_" gradientUnits="userSpaceOnUse" x1="-525.2412" y1="487.7109" x2="-525.2091" y2="493.6465" gradientTransform="matrix(27.369 0 0 -27.242 14467.5469 13467.1094)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_42_1_" fill="url(#Path_42_2_)" d="M51.746,137.181V52.459H69.33c0.376,0.038,0.752,0.038,1.122,0h28.834
 		c0.367,0.038,0.74,0.038,1.107,0h28.818c0.375,0.038,0.756,0.038,1.132,0h6.424l0.106-0.106c-0.367-0.866-0.668-1.756-0.903-2.667
@@ -48,8 +48,8 @@
 		c-0.101,0-0.214,0-0.556-0.044H48.97v86.597C49.915,136.516,50.842,136.816,51.746,137.181z"/>
 	
 		<linearGradient id="Path_43_2_" gradientUnits="userSpaceOnUse" x1="-527.9453" y1="489.7383" x2="-527.9131" y2="495.6778" gradientTransform="matrix(33.8154 0 0 -33.803 17935.7188 16747.9062)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_43_1_" fill="url(#Path_43_2_)" d="M39.947,120.181c-5.715-0.025-10.369,4.592-10.395,10.312
 		c-0.013,3.293,1.546,6.405,4.196,8.362c1.807-1.186,3.805-2.058,5.909-2.566c-3.174-0.145-5.627-2.822-5.488-5.996
@@ -67,8 +67,8 @@
 		c-5.733-0.012-10.395,4.63-10.407,10.363c-0.009,5.74,4.63,10.395,10.37,10.407h0.037h0.028v9.176L39.947,120.181z"/>
 	
 		<linearGradient id="Path_44_2_" gradientUnits="userSpaceOnUse" x1="-494.0566" y1="465.8447" x2="-494.0245" y2="471.7804" gradientTransform="matrix(7.976 0 0 -7.976 4020.2344 3819.6172)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_44_1_" fill="url(#Path_44_2_)" d="M79.774,68.393c-5.543-0.007-10.037,4.485-10.043,10.03
 		c-0.004,5.539,4.488,10.036,10.03,10.043c5.545,0,10.04-4.491,10.043-10.03c-0.007-5.546-4.495-10.037-10.037-10.043
@@ -77,8 +77,8 @@
 	<g id="Group_17_2_" transform="translate(1.496 2.661)">
 		
 			<linearGradient id="Path_45_1_" gradientUnits="userSpaceOnUse" x1="-531.7714" y1="488.6788" x2="-531.7393" y2="494.609" gradientTransform="matrix(44.6575 0 0 -44.655 23844.8438 22062.5449)">
-			<stop  offset="0" style="stop-color:#F2453F"/>
-			<stop  offset="1" style="stop-color:#F2B730"/>
+			<stop  offset="0" style="stop-color:#a8ac2e"/>
+			<stop  offset="1" style="stop-color:#a8ac2e"/>
 		</linearGradient>
 		<path id="Path_45_2_" fill="url(#Path_45_1_)" d="M164.848,30.421c-6.438-6.467-16.899-6.493-23.371-0.057
 			c-5.285,5.263-6.392,13.412-2.703,19.892l-87.727,87.751c-7.954-4.523-18.066-1.737-22.582,6.217
@@ -87,8 +87,8 @@
 	</g>
 	
 		<linearGradient id="Path_46_2_" gradientUnits="userSpaceOnUse" x1="-522.3892" y1="485.2959" x2="-522.3571" y2="491.2274" gradientTransform="matrix(22.594 0 0 -21.772 11896.5 10729.4219)">
-		<stop  offset="0" style="stop-color:#F2453F"/>
-		<stop  offset="1" style="stop-color:#F2B730"/>
+		<stop  offset="0" style="stop-color:#a8ac2e"/>
+		<stop  offset="1" style="stop-color:#a8ac2e"/>
 	</linearGradient>
 	<path id="Path_46_1_" fill="url(#Path_46_2_)" d="M62.561,122.915V63.342h63.328l4.626-4.629H57.95v69.922L62.561,122.915z"/>
 </g>
